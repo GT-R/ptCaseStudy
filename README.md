@@ -5,3 +5,4 @@ Fork this repository to begin the case study assignments. Instructions for the C
 
 When you are finished, you will submit your work for each assignment using a pull request.  You also need to upload 
 your project as a zip file to each assignment's D2L dropbox.
+Thank you !
